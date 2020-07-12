@@ -1,0 +1,9 @@
+{
+    "type": "node",
+    "request": "launch",
+    "name": "NestJs Watch",
+    "runtimeExecutable": "npm",
+    "runtimeArgs": ["run-script", "start:dev"],
+    "cwd": "${workspaceFolder}",
+    "port": 3000
+  }
